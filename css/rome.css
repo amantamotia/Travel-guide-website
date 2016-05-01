@@ -1,0 +1,134 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+         height:100%;
+		 background-color: white; margin:0; padding:0;
+		 }
+.wrapper{ width:100%;}
+.main{ width:100%;}
+.header{ width:100%; background:#c4cdc5; position:fixed; }
+.head-top{ width:1096px; margin:0 auto;}
+.head-top h1 {color: #1e5466;font-family: alice,Georgia,serif;font-size:30px;font-weight: bold; line-height:36px; padding:10px 0;}
+.head-top h2 {font-weight: normal;text-transform: none;font-family: alice, Georgia, serif;color: #4e4663;font-size:24px;font-style: italic;}
+.full-menu{ background:#4e4663; width:100%;position: fixed;
+margin-top: 85px;}
+.menu{ width:1150px; margin:0 auto; overflow:hidden;}
+.menu ul{ width:100%; list-style:none;}
+.menu ul li{ list-style:none; float:left; padding:15px; display:inline; }
+.menu ul li a {color: #fff;font-family: verdana;font-size: 16px;margin: 10px 0;padding: 10px;text-decoration: none;}
+.menu ul li:hover{ background:#1e5466;}
+
+
+#content {
+	margin: 0 225px;
+    width: 70%;
+	padding-top:135px;
+
+}
+.main_heading{
+	padding-top : 20px;
+	padding-bottom: 20px;
+	/*margin : 0 0 0 535px*/;
+	text-align:center;
+	color:#1e5466;
+	font-size:2.5em;
+}
+
+#content  img{
+
+
+    padding: 5px 5px 5px 5px;
+	border-radius: 25px;
+}
+
+
+.img_content0{
+width:1304px;
+height:400px;
+display:inline-block;
+}
+.img_content{
+width:645px;
+height:300px;
+display:inline-block;
+}
+
+.img_content1{
+width:1427px;
+height:1000px;
+border-radius: 25px;
+
+}
+.img_content2{
+width:700px;
+height:500px;
+border-radius: 25px;
+
+margin-left: 250px;
+}
+
+
+.divison img{
+
+    float:left;
+	margin-left:20px;
+	margin-top:6px;
+    padding: 0 5px 10px 0;
+
+}
+
+.side_heading{
+padding-left:40px;
+padding-top:10px;
+color: #1e5466;
+}
+.foodregion h2{
+margin-bottom:6px;
+font-style:italic;
+}
+
+.divison h2{
+margin-bottom:6px;
+
+}
+#content p{
+
+font-size: 23px;
+}
+.space{
+line-height: 28px;
+}
+
+.table1 table{
+border: 5px solid black;
+
+border-collapse:collapse;
+
+}
+.table1 th{
+border:1px solid #c4cdc5;
+margin-left:300px;
+padding:10px;
+}
+
+
+.table1 td{
+border:1px solid #c4cdc5;
+margin-left:300px;
+padding:10px;
+}
+
+#table_div{
+margin-left:300px;
+padding-top:20px;
+}
+
+hr {
+height: 5px;
+background-color: #c4cdc5
+}
